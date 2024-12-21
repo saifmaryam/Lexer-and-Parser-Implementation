@@ -151,6 +151,8 @@ Exiting the program. Thanks!
 3. **Follow the Prompts:**  
    - Enter mathematical expressions to evaluate.  
    - Type `exit` to quit the program.
+
+     
 **8.Features**
 - Handles basic and complex expressions with proper operator precedence.  
 - Supports nested parentheses and decimal numbers.  
