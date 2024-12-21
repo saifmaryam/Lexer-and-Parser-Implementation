@@ -1,7 +1,13 @@
 **Information**
 **Name : Maryam Saif**
+
+
 **Roll num :24025919-019**
+
+
 **Course Name : Advance theory of Computation**
+
+
 **Project Name : Lexer and Parser Implementation**
 
 
