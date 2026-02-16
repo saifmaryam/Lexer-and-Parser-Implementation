@@ -1,6 +1,3 @@
-**Project Name : Lexer and Parser Implementation**
-
-
 # Lexer-and-Parser-Implementation
 The Lexer simplifies the raw input into manageable tokens, and the Parser organizes these tokens into a meaningful structure for further evaluation. Together, they form the foundational steps of processing a mathematical expression or any code-like input.
 
